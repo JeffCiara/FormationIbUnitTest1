@@ -21,8 +21,8 @@ class CalculatorManuelTest {
 
         int retour = calculator.add(1, 2);
         assertEquals(3, retour,"1 +2 = 3");
-        // Assert
-
+        // Dos
+        // Assert commentaire qui ne sert a rien
     }
 
     @ParameterizedTest
