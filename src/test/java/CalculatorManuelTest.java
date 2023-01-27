@@ -19,7 +19,8 @@ class CalculatorManuelTest {
     @DisplayName("1+2=3")
     void testAdd() {
 
-        int retour = calculator.add(1, 2);
+        int reto
+        ur = calculator.add(1, 2);
         assertEquals(3, retour,"1 +2 = 3");
         // Dos
         // Assert commentaire qui ne sert a rien
