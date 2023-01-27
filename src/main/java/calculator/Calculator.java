@@ -6,7 +6,4 @@ public class Calculator {
         return a+b;
     }
 
-    public int bug(){
-        return 0;
-    }
 }
